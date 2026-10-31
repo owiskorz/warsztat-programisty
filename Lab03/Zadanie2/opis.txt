@@ -1,0 +1,5 @@
+Wyniki i obserwacje:
+poszczegolne pliki (plik1.txt, plik2.txt, plik3.txt) wyswietlaly gatunki zwierzat
+po polaczeniu ich w pliku zwierzeta.txt wypisywaly sie po kolei jeden po drugim
+po sprawdzeniu liczby linii wyswielona zostala cyfra 3 --> informujaca o ilosci linii
+
