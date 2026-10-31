@@ -1,0 +1,2 @@
+Roznica miedzy > a >> wdg. mnie polega na tym ze > przekierowalo wiadomosc z jednego
+pliku do drugiego, a >> dopisalo wiadomosc nie nadpisujac rzadnego pliku.
