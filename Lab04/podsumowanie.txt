@@ -1,0 +1,33 @@
+ROZNICE MIEDZY >,>>,<.|
+
+> - jest to przekierowanie (zmienia zawartosc pliku) np. przyk.txt > przyk2.txt 
+przyk2.txt zostanie nadpisany zastepuje stara zawartosc.
+
+>> - tak samo przekierowuje roznica polega na tym ze dopisuje informacje do pliku przy czym
+nie usuwa wczesniejszych danych sie tam znajdujacych.
+
+< - korzysta z danych znajdujacych sie w pliku do przekierowania np. wc -l < lista.txt
+pobierze on dane z pliku lista i dopiero wtedy zliczy liczbe linii.
+
+| - jest to potok pomaga on polaczyc wiele polecen w jeden ciag i przekierowuje wynik z
+jednego polecenia do drugiego. 
+
+
+POLECENIA UZYTE W CWICZENIACH
+
+echo - wyswietla test lub zapisuje go do pliku
+cat - wyswietla zawartosc pliku 
+nano - otwiera edycje pliku tekstowego
+sort - sortuje dane alfabetycznue
+uniq - usuwa duplikaty ale najpierw trzeba posortowac 
+cut - wycina poszczegolne kolumny z danych
+wc -l - liczy liczbe linii w pliku
+tee - zapisuje dane do pliku przekazuje je a takze wyswietla w terminalu
+
+
+NAJBARDZIEJ PRZYDATNE
+
+Mysle ze ciezko jest mi wskazac polecenia ktore sa najbardziej przydatne. W zaleznosci od
+zlozonosci konkretnego problemu przydatne moga byc poszczegolne z tych wymienionych w
+zadaniu. Jednakze na podstawie konczenia zadan z tych laboratorium moge jasno okreslic 
+ze najczestszym korzystanym przeze mnie bylo polecenie cat.
