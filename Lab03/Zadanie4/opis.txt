@@ -1,0 +1,6 @@
+Korzystalam z polecen :
+sort --> sortowanie 
+uniq ---> usuwanie powtorzen 
+| ---> potok miedzy poleceniami 
+wc -l ---> zliczanie linii
+tee ---> wyswietlil wynik i zapisal go do pliku (przekazal)
