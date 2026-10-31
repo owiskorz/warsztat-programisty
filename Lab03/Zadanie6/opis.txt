@@ -1,0 +1,9 @@
+Co dzieje sie w potoku
+
+1. Na poczatku korzystamy z polecenia cut -d ";" -f 1 ktore wybiera nam imiona z oceny.txt
+2. Nastepnie korzystamy z sort ktory sortuje np. Anna, Anna, Piotr, Jan, Jan
+3. Kolejno uzywamy uniq aby usunac duplikacje imion tak z 5 robi sie 3
+4. Zliczamy liczbe linii poleceniem wc -l wynik 3
+5. KOrzystajac z tee przekierowyjemy do wynik.txt
+
+Potoki pomogly polaczyc cala komende 
